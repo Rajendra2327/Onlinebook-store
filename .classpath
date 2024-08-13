@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes"/>
+	<classpathentry kind="lib" path="Online Book Store Project in JAVA/Online Book Store/WEB-INF/lib/order_client.jar"/>
+	<classpathentry kind="output" path="Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes"/>
+</classpath>
